@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HelenaSionnach
+- 👋 Hi, I’m @HelenaSionnach, this is the new account of the https://github.com/lilislilit
 - 👀 I’m interested in classical and modern art, music (especially intricacies of creating it), nature, niche application of tech
 - 🌱 I’m currently learning haskell and scala
 - 💞️ I’m looking to collaborate on something with small communities in mind
